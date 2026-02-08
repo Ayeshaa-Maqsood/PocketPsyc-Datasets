@@ -242,23 +242,3 @@ altaf.hussain@ist.edu.pk
 We thank the creators of GoEmotions, Coqui TTS, UCLA MARC, and UMass MBSR for making their datasets and resources publicly available for research purposes.
 ```
 
----
-
-### **Step 3: Updated Data Availability Document**
-
-Replace the **"Model Checkpoints and Code"** section with:
-```
-**Datasets and Model Checkpoints**
-
-All datasets used in this research are derived from publicly available sources. Comprehensive documentation of data sources, access instructions, and licensing information is provided in our public GitHub repository:
-
-https://github.com/ayesha-maqsood/PocketPsyc-Datasets
-
-This repository includes:
-- Direct links to all source datasets (GoEmotions, mindfulness scripts, therapy transcripts)
-- Data preprocessing scripts and documentation
-- Dataset statistics and composition details
-- Licensing and usage terms
-- Citations for all data sources
-
-Additionally, all fine-tuned models are deployed as publicly accessible APIs through Hugging Face Spaces (links provided in the datasets repository). These deployed APIs allow researchers to evaluate model performance and reproduce experimental results without requiring local deployment.
