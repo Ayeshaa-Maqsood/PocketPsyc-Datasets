@@ -240,5 +240,3 @@ altaf.hussain@ist.edu.pk
 ## Acknowledgments
 
 We thank the creators of GoEmotions, Coqui TTS, UCLA MARC, and UMass MBSR for making their datasets and resources publicly available for research purposes.
-```
-
